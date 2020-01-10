@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuangp/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuangp/test/issues"
+  },
+  "homepage": "https://github.com/kuangp/test#readme",
+  "dependencies": {
+    "@types/jest": "^23.0.0",
+    "jest": "^23.0.0",
+    "jest-cli": "^23.0.0"
+  }
+}
