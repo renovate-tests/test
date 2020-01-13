@@ -1,5 +1,9 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "packageRules": [{
+    "packageNames": ["@types/jest"],
+    "groupName": "jest monorepo"
+  }]
 }
